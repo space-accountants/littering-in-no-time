@@ -1,0 +1,8 @@
+### Time well spend, but at what cost? 
+Significant amounts of plastics and pollution leaks into our environment, at an exponential rate. The clean-up of such litter does, for a large part, depend upon volunteers. Change in this manner can be accomplishes when either 1) social or 2) economic incentives are given.
+
+For littering the first strategy of a social incentive is well-developed, where in the form of campaigns, governments or companies adjust their mode of operations, as otherwise their reputation can be damaged. The second strategy of economic incentives is less explored, and the subject of this project falls within this view. It deals with the liability issue, and ability to quantify the damage (or prevention thereof) towards the polluter. In this way the externalities are placed on the balance sheet. 
+
+The mitigation costs in the form of re-introduction into the recycling chain should be on the bill as well. For single items, this is simple. But gets more complicated for fragmented litter. Thus as a starting point, a first order estimate of the costs is needed.
+
+This project aims to discover how much time it (at least) takes to do litter picking. Coming to a metric such as time spend per item picked, or time spend per meter. Several initiatives exist where civilians record their litter picking, in this way the spatiotemporal whereabouts are known. This gives the opportunity to mine deceleration and pauze data, and extract picking statistics. 
